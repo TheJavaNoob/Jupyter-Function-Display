@@ -1,5 +1,6 @@
 # Jupyter-Function-Display
 This is a TamperMonkey plugin. See https://www.tampermonkey.net for how to use it.
+You can also run the js code in Developer Tools.
 
 ## Introduction
 
